@@ -31,7 +31,7 @@ class PetsDisplayTableViewController: UITableViewController {
         return cell
     }
     
-    let Pets: [String] = ["Dog", "Cat", "Rabit", "Lion", "Giraffe", "Chamellion"]
+    let Pets: [String] = ["Dog", "Cat", "Rabit", "Horse", "Giraffe", "Chamellion", "Snake", "Tiger"]
     
 
     
